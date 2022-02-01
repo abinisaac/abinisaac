@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abinisaac
 - 👀 I’m interested in Python, Data Science & Machine Learning
-- 🌱 I’m currently working on fake news detection model.
+- 🌱 I’m currently working on a fake news detection model.
 - 📫 Wanna talk! Send me a Hi at abinisaac777@gmail.com
 
 <!---
