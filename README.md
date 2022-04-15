@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abinisaac
 - 👀 I’m interested in Python, Data Science & Machine Learning
-- 🌱 I have just completed a Sports Celebrity image classification project.
+- 🌱 I am currently working on Diabetes detection and Karoke extracter project
 - 📫 Wanna talk! Send me a Hi at abinisaac777@gmail.com
 
 <!---
