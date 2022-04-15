@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Data Science & Machine Learning
 - 🌱 I am currently working on Diabetes detection and Karoke extracter project
 - ✍ Read me on <a href ="https://adventuresofaprogrammer.medium.com/">medium</a>
-- 🤝 Connect on <a href ="https://www.linkedin.com/in/abinisaac/">Linkedin</a>
+- 🤝 Lets connect on <a href ="https://www.linkedin.com/in/abinisaac/">Linkedin</a>
 - 📫 Wanna talk! Send me a <a href ="abinisaac777@gmail.com">Hi</a>
 
 <!---
