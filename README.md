@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abinisaac
 - 👀 I’m interested in Python, Data Science & Machine Learning
 - 🤝 Lets connect on <a href ="https://www.linkedin.com/in/abinisaac/">Linkedin</a>
-- 🌱 I am currently working on Diabetes detection and Karoke extracter project
+- 🌱 I enjoyed wrtiting <a href ="https://adventuresofaprogrammer.medium.com/random-number-pseudo-generator-in-python-from-scratch-e23579f7d42d">How I calculated Pi from a PIZZA </a> which explains <a href ="https://github.com/abinisaac/Python-Assignments/blob/main/Random_Number_Generator.ipynb">Random Number Generation</a>
 - ✍ Read me on <a href ="https://adventuresofaprogrammer.medium.com/">medium</a>
 - 📫 Wanna talk! Send me a <a href ="https://www.linkedin.com/in/abinisaac/">Hi</a>
 
